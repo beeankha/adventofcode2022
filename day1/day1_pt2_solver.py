@@ -1,5 +1,5 @@
 # Read input file
-f = open("pt1_input.txt", "r")
+f = open("day1_input.txt", "r")
 input_list = []
 for i in f.read().split("\n\n"):
     sublist = []
